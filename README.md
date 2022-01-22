@@ -27,7 +27,7 @@
    
   
 <img src="https://www.codewars.com/users/yi-sht/badges/large">
-<img src="https://github-readme-stats.vercel.app/api?username=yi-sht">
+<img src="https://github-readme-stats.vercel.app/api?username=yi-sht&count_private=true">
 </body
 
 </html>
