@@ -5,12 +5,17 @@
 <body>
 <h1>My Interested Topics</h1>
 
-    Artificial Intelligence 
-    Robot tadatadatadatada
-    Metaverse/Virtual Reality 
-    Cloud Native tadatadatada
-    Front-end/Client-side Programming/Eco tadatadatada
-    Distributed System tadatada
+    Web Development
+    Mobile Development
+    Artificial Intelligence
+    
+    
+<h1>My Languages</h1>
+
+    Ruby
+    Python
+    PHP
+   
   
 <img src="https://www.codewars.com/users/yi-sht/badges/large">
 </body
