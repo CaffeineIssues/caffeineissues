@@ -24,7 +24,7 @@
     
 <h1>My Languages</h1>
  
-    Ruby
+    Ruby 
     Python
     PHP
     Kotlin
