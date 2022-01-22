@@ -6,6 +6,9 @@
     
 </head>
 <body style="font-family: Recursive;">
+<h1>About Me</h1>
+    Hi!! My name is Gabriel and i'm a web developer from Brazil.
+    
 <h1>My Interested Topics</h1>
 
     Web Development
