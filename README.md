@@ -7,7 +7,7 @@
 </head>
 <body style="font-family: Recursive;">
 <h1>About Me</h1>
-    Hi!! My name is Gabriel aka @yi-sht and i'm a dev from Brazil. Most of the repositories i work on are from private companies i'm currently hired but i'm trying to put out some public content as often as i can.
+    Hi!! My name is Gabriel aka <a href="https://github.com/yi-sht">@yi-sht</a> and i'm a dev from Brazil. Most of the repositories i work on are from private companies i'm currently hired but i'm trying to put out some public content as often as i can.
     
   <img width="100%" alt="please-hire-me" src="https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png">
 
