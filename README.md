@@ -8,7 +8,7 @@
             font-family: Recursive;
         
         }
-    <style>
+    </style>
 </head>
 <body>
 <h1>My Interested Topics</h1>
