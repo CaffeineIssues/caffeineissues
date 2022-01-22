@@ -16,13 +16,12 @@
     
     
 <h1>My Languages</h1>
-     <ul>
-       
-       <li>Ruby</li>
-       <li>Python</li>
-       <li>PHP</li>
-       <li>Kotlin</li>
-    </ul>
+    
+       Ruby
+       Python
+       PHP
+       Kotlin
+    
       
    
   
