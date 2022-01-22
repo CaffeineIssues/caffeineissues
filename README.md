@@ -24,10 +24,10 @@
     
 <h1>My Languages</h1>
  
-    Ruby 
-    Python
-    PHP
-    Kotlin
+    Ruby   ❤❤❤❤❤
+    Python ❤❤❤❤
+    PHP    ❤❤❤
+    Kotlin ❤❤❤❤❤
     
     
       
