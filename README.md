@@ -36,7 +36,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yi-sht&layout=compact&count_private=true&show_icons=true&theme=dark">
   
-<a href="https://www.codewars.com/users/yi-sht"><img src="https://www.codewars.com/users/yi-sht/badges/large"></a>
+<a href="https://www.codewars.com/users/yi-sht" target="_blank"><img src="https://www.codewars.com/users/yi-sht/badges/large"></a>
 </body
 
 </html>
