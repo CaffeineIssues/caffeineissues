@@ -29,7 +29,7 @@
     Python ❤❤❤❤
     PHP    ❤❤❤
     Kotlin ❤❤❤❤❤
-    
+    JS     ❤❤❤❤
     
 <h1>Stats and Badges</h1>    
 <img src="https://github-readme-stats.vercel.app/api?username=yi-sht&count_private=true&show_icons=true&theme=dark">     
