@@ -32,11 +32,11 @@
     JS     ❤❤❤❤
     
 <h1>Stats and Badges</h1>    
-<img src="https://github-readme-stats.vercel.app/api?username=CaffeineIssues&count_private=true&show_icons=true&theme=dark">     
+<img src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">     
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffeineIssues&layout=compact&count_private=true&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
   
-<a href="https://www.codewars.com/users/CaffeineIssues" target="_blank"><img src="https://www.codewars.com/users/CaffeineIssues/badges/large"></a>
+<a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/CaffeineIssues/badges/large"></a>
 </body
 
 </html>
