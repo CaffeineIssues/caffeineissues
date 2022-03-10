@@ -28,8 +28,8 @@
     Ruby   ❤❤❤❤❤
     Python ❤❤❤❤
     PHP    ❤❤❤
-    Kotlin ❤❤❤❤❤
-    JS     ❤❤❤❤
+    Kotlin ❤❤❤
+    JS     ❤❤❤❤❤
     
 <h1>Stats and Badges</h1>    
 <img src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">     
