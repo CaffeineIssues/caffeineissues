@@ -35,7 +35,7 @@ Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineiss
 <h1>Stats and Badges</h1>  
 
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
+<img height="200em" width="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
 
 <a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/caffeineissues/badges/large"></a>
 
