@@ -33,9 +33,10 @@
     
 <h1>Stats and Badges</h1>  
 <div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">     
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">     
 
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
+    
 </div>  
 <a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/caffeineissues/badges/large"></a>
 </body
