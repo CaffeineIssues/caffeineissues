@@ -32,7 +32,7 @@
     Kotlin ❤❤❤
     
 <h1>Stats and Badges</h1>  
-<div style="text-align:justify;">
+<div style="text-align:center;">
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">     
 <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
 <div>
