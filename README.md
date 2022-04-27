@@ -7,7 +7,7 @@
     
 </head>
 <body style="font-family: Recursive;">
-<div align="right">
+<div align="center">
     <a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/caffeineissues/badges/large"></a>
 </div>
 
