@@ -7,8 +7,12 @@
     
 </head>
 <body style="font-family: Recursive;">
+<div align="right">
+    <a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/caffeineissues/badges/large"></a>
+</div>
+
 <h1>About Me</h1>
-    Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineissues)</a> and i'm a developer from Brazil. Most of the repositories i work on are from private companies i'm currently hired but i'm trying to put out some public content as often as i can.
+Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineissues)</a> and i'm a developer from Brazil. Most of the repositories i work on are from private companies i'm currently hired but i'm trying to put out some public content as often as i can.
     
   <img width="100%" alt="please-hire-me" src="https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png">
 
@@ -36,7 +40,6 @@
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=caffeineissues&count_private=true&show_icons=true&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;     
 <img height="200em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&count_private=true&show_icons=true&theme=dark">
 </div>
-<a href="https://www.codewars.com/users/caffeineissues" target="_blank"><img src="https://www.codewars.com/users/caffeineissues/badges/large"></a>
 </body
 
 </html>
