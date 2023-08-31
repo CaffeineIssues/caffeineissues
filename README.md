@@ -24,7 +24,7 @@ Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineiss
     
     
     
-<h1>My Languages</h1>
+<h1>My Stats</h1>
  
 <div align="center">
   <a href="https://github.com/CaffeineIssues">
