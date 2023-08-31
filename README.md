@@ -26,11 +26,11 @@ Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineiss
     
 <h1>My Languages</h1>
  
-    JS     ❤❤❤❤❤
-    Ruby   ❤❤❤❤❤
-    Python ❤❤❤❤
-    PHP    ❤❤❤
-    Kotlin ❤❤❤
+<div align="center">
+  <a href="https://github.com/MaximinoDan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaffeineIssues&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaffeineIssues&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
     
 
 </body
