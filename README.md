@@ -9,7 +9,7 @@
 <body style="font-family: Recursive;">
 
 <h1>About Me</h1>
-Hi!! My name is Gabriel<a href="https://github.com/CaffeineIssues">(@caffeineissues)</a> and i'm a fullstack developer from Brazil. Most of the repositories i work on are from private companies i'm currently hired but i'm trying to put out some public content as often as i can.
+Hey! I’m Gabriel (@caffeineissues), a full-stack developer from Brazil 🇧🇷. I’ve been working mostly with private companies, so a lot of my code lives in private repos — but I’m doing my best to share more public stuff when I get the chance.
     
   <img width="100%" alt="please-hire-me" src="https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png">
 
