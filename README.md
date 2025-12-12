@@ -26,10 +26,17 @@ Hey! I'm Gabriel (@caffeineissues), a full-stack developer from Brazil 🇧🇷.
     
 <h1>My Stats</h1>
  
-<div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CaffeineIssues&theme=dark-minimalist&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=caffeineissues&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=caffeineissues&theme=github_dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&theme=github_dark" alt="Top Languages" />
+</p>
     
 
 </body
