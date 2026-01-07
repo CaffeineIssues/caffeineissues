@@ -7,11 +7,16 @@
     
 </head>
 <body style="font-family: Recursive;">
-
-<h1>About Me</h1>
-Hey! I'm Gabriel (@caffeineissues), a full-stack developer from Brazil 🇧🇷. I’ve been working mostly with private companies, so a lot of my code lives in private repos, but I’m doing my best to share more public stuff when I get the chance.
     
-  <img width="100%" alt="please-hire-me" src="https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png">
+## 👋 About Me
+
+Hey! I'm **Gabriel** ([@caffeineissues](https://github.com/caffeineissues)), a **full-stack developer from Brazil 🇧🇷**.
+
+I’ve mostly worked with **private companies**, so a lot of my code lives in private repositories.  
+Still, I’m doing my best to share more **public projects** whenever I get the chance 🚀
+
+![Please hire me](https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png)
+
 
     
     
