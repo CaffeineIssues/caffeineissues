@@ -15,8 +15,6 @@ Hey! I'm **Gabriel** ([@caffeineissues](https://github.com/caffeineissues)), a *
 I’ve mostly worked with **private companies**, so a lot of my code lives in private repositories. Still, I’m doing my best to share more **public projects** whenever I get the chance 🚀
 
 ![Please hire me](https://user-images.githubusercontent.com/79814036/150638007-6b5c2dee-8ab8-453e-bbf9-f51179349d54.png)
-
-<audio src='' />
     
     
 ## 🧰 Tech Stack
@@ -37,7 +35,7 @@ I’ve mostly worked with **private companies**, so a lot of my code lives in pr
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 
-    
+![best advice](./a-real-sobre-php.mp3)
 
 </body
 
