@@ -15,27 +15,28 @@ Hey! I'm Gabriel (@caffeineissues), a full-stack developer from Brazil 🇧🇷.
 
     
     
-<h1>My Interested Topics</h1>
+## 🧰 Tech Stack
 
-    Web Development
-    Mobile Development
-    Artificial Intelligence
-    Coding Challenges
-    
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
     
     
 <h1>My Stats</h1>
  
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=caffeineissues&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=caffeineissues&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=caffeineissues&theme=github_dark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=caffeineissues&theme=github_dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=caffeineissues&layout=compact&theme=github_dark" alt="Top Languages" />
+     
 </p>
     
 
