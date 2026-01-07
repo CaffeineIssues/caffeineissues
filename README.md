@@ -27,18 +27,6 @@ Hey! I'm Gabriel (@caffeineissues), a full-stack developer from Brazil 🇧🇷.
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
     
-    
-<h1>My Stats</h1>
- 
-<p align="center">
-    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=caffeineissues&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-    <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/streak?username=caffeineissues&theme=github_dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-     
-</p>
-    
 
 </body
 
