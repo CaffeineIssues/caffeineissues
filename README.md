@@ -34,7 +34,7 @@ I’ve mostly worked with **private companies**, so a lot of my code lives in pr
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-![GitHub Stats](http://stats.pphat.top/stats?username=CaffeineIssues&avatar_mode=radar&theme=dark&data_border_style=frame)
+![GitHub Stats](http://stats.pphat.top/stats?username=CaffeineIssues&avatar_mode=radar&theme=default&data_border_style=frame)
 
 
 ![best advice](./a-real-sobre-php.mp3)
