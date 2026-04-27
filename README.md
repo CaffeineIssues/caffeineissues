@@ -38,6 +38,8 @@ I’ve mostly worked with **private companies**, so a lot of my code lives in pr
 ![GitHub Stats](http://stats.pphat.top/stats?username=CaffeineIssues&avatar_mode=radar&theme=default&data_border_style=frame)
 
 
+<img width="109" height="135" alt="Captura de tela de 2026-04-27 15-30-12" src="https://github.com/user-attachments/assets/8b0bb573-cf05-4f9f-935f-fa31e36a3f08" />
+
 ![best advice](./a-real-sobre-php.mp3)
 
 </body
